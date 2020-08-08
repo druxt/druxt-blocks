@@ -43,7 +43,7 @@
   },
   "dependencies": {
     "axios": "^0.19.2",
-    "drupal-jsonapi-params": "^1.1.8",
+    "drupal-jsonapi-params": "^1.1.9",
     "druxt-entity": "^0.5.1",
     "druxt-router": "^0.14.0",
     "qs": "^6.9.4",
